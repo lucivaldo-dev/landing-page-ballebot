@@ -10,3 +10,5 @@
 - justify-content
 - font-weight
 
+###### Obs.O que eu não colocar nessa lista é porque eu já sabia.
+
