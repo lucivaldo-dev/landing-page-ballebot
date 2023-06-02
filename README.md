@@ -1,14 +1,6 @@
-### O que eu aprendi:
-#### Parte 01
-- Estruturar o conteúdo no HTML usando as tags necessárias
-- Colocar as class e nomealas
-- Usar o import para incorporar uma fonte no CSS
-- Usar o reset CSS
-- Backgrond gradiente
-#### Parte 02
-- Usar o flex-box
-- justify-content
-- font-weight
+### Landing page
 
-###### Obs.O que eu não colocar nessa lista é porque eu já sabia.
+#### Esta é uma prática de uma aula da Rafaella Ballerini onde ela ensina à criar uma página principal usando a semântica HTML e Estilo(CSS).
+
+
 
